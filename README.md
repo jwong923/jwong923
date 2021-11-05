@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wong Lai Sze:)
 - 👀 I’m interested in turning number into meaningful output!
 - 🌱 I’m currently learning Python, R, SQL, Tableau. 
-- 💞️ I’m looking for a job that I can apply my skills and learn more from it!!
+- 💞️ I’m looking for a job in data analysis.
 - 📫 How to reach me lswongag@connect.ust.hk
 
 <!---
